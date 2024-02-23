@@ -1,11 +1,12 @@
 
 
 import One from './One'
-
+import Two from './Two'
 function App() {
   return (
     <div>
-    <One/>
+    {/* <One/> */}
+    <Two/>
     </div>
   );
 }
